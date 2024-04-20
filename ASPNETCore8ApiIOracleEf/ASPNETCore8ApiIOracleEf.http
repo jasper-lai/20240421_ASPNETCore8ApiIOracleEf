@@ -1,0 +1,6 @@
+@ASPNETCore8ApiIOracleEf_HostAddress = http://localhost:5144
+
+GET {{ASPNETCore8ApiIOracleEf_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

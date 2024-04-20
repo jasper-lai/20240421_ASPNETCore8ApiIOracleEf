@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETCore8ApiIOracleEf", "ASPNETCore8ApiIOracleEf\ASPNETCore8ApiIOracleEf.csproj", "{A5E4F8F1-7D53-44E2-BC64-8A6E1181DBDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5E4F8F1-7D53-44E2-BC64-8A6E1181DBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E4F8F1-7D53-44E2-BC64-8A6E1181DBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E4F8F1-7D53-44E2-BC64-8A6E1181DBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E4F8F1-7D53-44E2-BC64-8A6E1181DBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E08D90BB-77D1-4415-A644-EDECCE043F3D}
+	EndGlobalSection
+EndGlobal
