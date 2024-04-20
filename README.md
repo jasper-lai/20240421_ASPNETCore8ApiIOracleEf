@@ -28,7 +28,7 @@
 附錄一: [Oracle.EntityFranewrokCore 安裝後的提示](#sectionA)  
 附錄二: [EF Core Power Tools 執行完成的提示](#sectionB)  
 
-範例由此下載.  
+<a href="https://github.com/jasper-lai/20240421_ASPNETCore8ApiIOracleEf" target="_blank">範例由此下載</a>.  
 
 <!-- more --> 
 
